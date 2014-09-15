@@ -1,12 +1,15 @@
-.jumbotron {
-  background: #4A2C68;
-
-}
 .container {
-  color: white;
-  font-family: helvetica;
-  padding: 40px;
-  width: 400px;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 45px;
+  /*background: #4A2C68;*/
+}
+.italic {
+  font-style: italic;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+.res-title {
+  text-align: center;
 }
