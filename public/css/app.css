@@ -1,0 +1,12 @@
+.jumbotron {
+  background: #4A2C68;
+
+}
+.container {
+  color: white;
+  font-family: helvetica;
+  padding: 40px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
