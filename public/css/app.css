@@ -1,11 +1,11 @@
 .container {
-  padding: 10px;
+  padding: 20px;
 }
 .italic {
   font-style: italic;
 }
 .small-text {
-  font-size: 12px;
+  font-size: 0.6em;
 }
 .centered {
   text-align: center;
@@ -23,24 +23,6 @@
 .icon-left {
   padding-left: 0.1em;
 }
-
-/*.picture {
-  padding-left: 9px;
-  max-width: 250px;
-  max-height 250px;
-}
-
-.links {
-  max-width: 260px;
-  height: 100%;
-}
-.links .left-a {
-  padding-left: 50px;
-}
-.rez-link {
-  padding-left: 65px;
-}
-
-.links p {
-  text-align: center;
+/*h5 a {
+  color: #583260;
 }*/
