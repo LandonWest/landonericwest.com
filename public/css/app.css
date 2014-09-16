@@ -1,5 +1,5 @@
 .container {
-  padding: 45px;
+  padding: 10px;
 }
 .italic {
   font-style: italic;
@@ -7,11 +7,24 @@
 .small-text {
   font-size: 12px;
 }
-.res-title {
+.centered {
   text-align: center;
 }
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+.icon-left {
+  padding-left: 0.1em;
+}
 
-.picture {
+/*.picture {
   padding-left: 9px;
   max-width: 250px;
   max-height 250px;
@@ -30,4 +43,4 @@
 
 .links p {
   text-align: center;
-}
+}*/
