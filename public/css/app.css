@@ -1,15 +1,33 @@
 .container {
   padding: 45px;
-  /*background: #4A2C68;*/
 }
 .italic {
   font-style: italic;
 }
-
 .small-text {
   font-size: 12px;
 }
-
 .res-title {
+  text-align: center;
+}
+
+.picture {
+  padding-left: 9px;
+  max-width: 250px;
+  max-height 250px;
+}
+
+.links {
+  max-width: 260px;
+  height: 100%;
+}
+.links .left-a {
+  padding-left: 50px;
+}
+.rez-link {
+  padding-left: 65px;
+}
+
+.links p {
   text-align: center;
 }
